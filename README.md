@@ -6,11 +6,12 @@
 <br>
 
 <div vertical-align="baseline">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saymaakhan&show_icons=true&locale=en&layout=compact" alt="saymaakhan" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saymaakhan&show_icons=true&locale=en&layout=compact" alt="saymaakhan" />
+<br> 
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saymaakhan&show_icons=true&locale=en" alt="saymaakhan" /></p>
 </div>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saymaakhan&" alt="saymaakhan" /></p>
 
 <h4 align="right">Connect with me:</h4>
