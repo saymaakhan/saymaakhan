@@ -8,6 +8,7 @@
 <div vertical-align="baseline">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saymaakhan&show_icons=true&locale=en&layout=compact" alt="saymaakhan" />
 </p>
+  <h2></h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saymaakhan&show_icons=true&locale=en" alt="saymaakhan" /></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saymaakhan&" alt="saymaakhan" /></p>
