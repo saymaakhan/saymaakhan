@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sayma! 👋</h1>
-<h3 align="center">Programmer. Designer. Creator.</h3>
+<h3 align="center"></h3>
 
 <br>
 
