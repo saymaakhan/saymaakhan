@@ -2,7 +2,13 @@
 <h3 align="center"></h3>
 
 <br>
+<h4>Welcome to my GitHub!</h4>
 
+<div align="center">
+  
+![Sayma's GitHub stats](https://github-readme-stats.vercel.app/api?username=saymaakhan&show_icons=true&theme=radical)
+  
+</div>
 
 <h4 align="right">Connect with me:</h4>
 <p align="right">
